@@ -4,6 +4,7 @@ Source code and supplementary material of HVGSA paper for PPSN 2024
 <details open>
 <summary>Supplementary Materials for PPSN</summary>
 
+- [Problem table](#problem-table)
 - [Algorithm pseudocode](#algorithm-pseudocode)
 - [ZDT objective spaces](#zdt-objective-space)
 - [ZDT HV convergence graphs](#zdt-hypervolume-plot)
@@ -31,6 +32,10 @@ Place the `HVGSA` directory under ./PlatEMO/Algorithms/Multi-objective optimizat
 Locate `visualizeHV.m` and `visualizeObj.m` within `Utility` directory and place both files under ./PlatEMO. Then, after collecting data from the `Experiment Module` within the PlatEMO GUI, specify the data directory and problems you want to visualize within `visualizeHV.m` and `visualizeObj.m`, and run the module.
 
 # Supplementary Material for PPSN 2024
+
+## Problem table
+
+<img width="800" src="./Results/ProblemTable.png">
 
 ## Algorithm pseudocode
 
