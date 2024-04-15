@@ -47,17 +47,17 @@ Locate `visualizeHV.m` and `visualizeObj.m` within `Utility` directory and place
 
 ## ZDT hypervolume plot
 
-<img width="800" src="./Results/ZDT1_hvgraph.png">
+<img width="800" src="./Results/ZDT1.png">
 
-<img width="800" src="./Results/ZDT2_hvgraph.png">
+<img width="800" src="./Results/ZDT2.png">
 
-<img width="800" src="./Results/ZDT3_hvgraph.png">
+<img width="800" src="./Results/ZDT3.png">
 
-<img width="800" src="./Results/ZDT4_hvgraph.png">
+<img width="800" src="./Results/ZDT4.png">
 
-<img width="800" src="./Results/ZDT4C_hvgraph.png">
+<img width="800" src="./Results/ZDT4C.png">
 
-<img width="800" src="./Results/ZDT6_hvgraph.png">
+<img width="800" src="./Results/ZDT6.png">
 
 ## DTLZ objective space
 
@@ -65,43 +65,43 @@ Locate `visualizeHV.m` and `visualizeObj.m` within `Utility` directory and place
 
 ## DTLZ hypervolume plot
 
-<img width="800" src="./Results/DTLZ1_hvgraph.png">
+<img width="800" src="./Results/DTLZ1.png">
 
-<img width="800" src="./Results/DTLZ2_hvgraph.png">
+<img width="800" src="./Results/DTLZ2.png">
 
-<img width="800" src="./Results/DTLZ4_hvgraph.png">
+<img width="800" src="./Results/DTLZ4.png">
 
-<img width="800" src="./Results/DTLZ5_hvgraph.png">
+<img width="800" src="./Results/DTLZ5.png">
 
-<img width="800" src="./Results/DTLZ6_hvgraph.png">
+<img width="800" src="./Results/DTLZ6.png">
 
-<img width="800" src="./Results/DTLZ7_hvgraph.png">
+<img width="800" src="./Results/DTLZ7.png">
 
 ## IDTLZ hypervolume plot
 
-<img width="800" src="./Results/IDTLZ1_hvgraph.png">
+<img width="800" src="./Results/IDTLZ1.png">
 
-<img width="800" src="./Results/IDTLZ2_hvgraph.png">
+<img width="800" src="./Results/IDTLZ2.png">
 
 ## WFG hypervolume plot
 
-<img width="800" src="./Results/WFG1_hvgraph.png">
+<img width="800" src="./Results/WFG1.png">
 
-<img width="800" src="./Results/WFG2_hvgraph.png">
+<img width="800" src="./Results/WFG2.png">
 
-<img width="800" src="./Results/WFG3_hvgraph.png">
+<img width="800" src="./Results/WFG3.png">
 
-<img width="800" src="./Results/WFG4_hvgraph.png">
+<img width="800" src="./Results/WFG4.png">
 
-<img width="800" src="./Results/WFG5_hvgraph.png">
+<img width="800" src="./Results/WFG5.png">
 
-<img width="800" src="./Results/WFG6_hvgraph.png">
+<img width="800" src="./Results/WFG6.png">
 
-<img width="800" src="./Results/WFG7_hvgraph.png">
+<img width="800" src="./Results/WFG7.png">
 
-<img width="800" src="./Results/WFG8_hvgraph.png">
+<img width="800" src="./Results/WFG8.png">
 
-<img width="800" src="./Results/WFG9_hvgraph.png">
+<img width="800" src="./Results/WFG9.png">
 
 ## Tables
 
