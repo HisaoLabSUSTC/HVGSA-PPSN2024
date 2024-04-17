@@ -23,9 +23,23 @@ Preliminary step:
 
 Download [PlatEMO](https://github.com/BIMK/PlatEMO) and refer to their documentations on how to use this platform.
 
+You only need one set of [stk_*.m](https://stk-kriging.github.io/release/latest/doc/html/) files in your entire project. They are placed within the same directories as the files that use them.
+
 ## HVGSA
 
 Place the `HVGSA` directory under ./PlatEMO/Algorithms/Multi-objective optimization. Then, you can use platemo() and see our algorithm within the algorithm list.
+
+## SMS-EMOA
+
+Replace the `SMS-EMOA` directory inside ./PlatEMO/Algorithms/Multi-objective optimization with our `SMS-EMOA`. We used faster HV computation using the WFG algorithms from STK toolbox.
+
+## Metrics
+
+Replace the `HV.m` inside ./PlatEMO/Metrics with our `HV.m`. We used faster HV computation using the WFG algorithms from STK toolbox.
+
+## ZDT
+
+The ZDT4C problem is located here. It belongs in ./PlatEMO/Problems/Multi-objective optimization/ZDT
 
 ## Utility
 
