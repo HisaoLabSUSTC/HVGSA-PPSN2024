@@ -77,6 +77,8 @@ Locate `visualizeHV.m` and `visualizeObj.m` within `Utility` directory and place
 
 <img width="800" src="./Results/DTLZ_objspace.png">
 
+Notice how for DTLZ1, our algorithm has 1 point far from the pareto front. In our paper, specifically at the end of Section 3.3, we mentioned an implementation issue where duplicated points are generated and kept in the population. This causes hypervolume contribution to be 0 for all the duplicated points. Yet, in the next generation, just before the environmental selection, if the HVGSA step is executed, some of the points might be steered into infeasible regions and fixed to be very far from the Pareto front. If those points also happen to be nondominated (which is often the case in higher-dimensional spaces), they will have a larger hypervolume contribution than 0, and as a result outlive the duplicated solutions. This is the behavior observed in DTLZ1. When we introduce adaptive step size control and alternative dominance relations, we believe this issue will be resolved. 
+
 ## DTLZ hypervolume plot
 
 <img width="800" src="./Results/DTLZ1.png">
